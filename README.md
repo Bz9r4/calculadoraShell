@@ -1,1 +1,1 @@
-#Calculadora Shell Script v001
+# Calculadora Shell Script. v001
